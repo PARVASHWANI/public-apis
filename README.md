@@ -1,6 +1,9 @@
-# Public APIs [![Build Status](https://api.travis-ci.org/toddmotto/public-apis.svg)](https://travis-ci.org/toddmotto/public-apis)
+# PUBLIC API INDEX [![Build Status](https://api.travis-ci.org/toddmotto/public-apis.svg)](https://travis-ci.org/toddmotto/public-apis)
 
 A collective list of free APIs for use in software and web development.
+
+Here,Is a list of public API by Parv.
+It is forked from toddmotto but i keep on adding APIs that i personally use.
 
 For information on contributing to this project, please see the [contributing guide](.github/CONTRIBUTING.md).
 
